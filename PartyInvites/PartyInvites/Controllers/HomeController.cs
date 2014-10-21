@@ -10,7 +10,7 @@ namespace PartyInvites.Controllers
     {
         public string Index()
         {
-            return "Hello World- ";
+            return "Hello World+";
         }
     }
 }
